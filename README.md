@@ -6,8 +6,8 @@
 <a href="https://img.shields.io/docker/cloud/automated/connorjmccarthy/amazonlinux-python3.7.10">
     <img src="https://img.shields.io/docker/cloud/automated/connorjmccarthy/amazonlinux-python3.7.10" alt="automated" >
 </a>
-<a href="https://img.shields.io/docker/cloud/build/connorjmccarthy/amazonlinux-python3.7.10">
-    <img src="https://img.shields.io/docker/cloud/build/connorjmccarthy/amazonlinux-python3.7.10" alt="build" >
+<a href="https://github.com/connor-mccarthy/amazonlinux-python3.7.10/workflows/Docker/badge.svg">
+    <img src="https://github.com/connor-mccarthy/amazonlinux-python3.7.10/workflows/Docker/badge.svg" alt="Python Workflow" />
 </a>
 <a href="https://img.shields.io/docker/image-size/connorjmccarthy/amazonlinux-python3.7.10">
     <img src="https://img.shields.io/docker/image-size/connorjmccarthy/amazonlinux-python3.7.10" alt="image-size" >
